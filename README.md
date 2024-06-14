@@ -53,4 +53,4 @@ We built our own music recommendation system using a song dataset. It integrates
 
 ## Support
 
-For any queries, email [Ayush](mailto:ayush.mohapatra47@gmail.com), [Barenya](mailto:barenyamohanty9@gmail.com)
+For any queries, email [Ayush](mailto:ayushmohapatra50@gmail.com), [Barenya](mailto:barenyamohanty9@gmail.com), [Swaroop](mailto:divyaswaroopdash2001@gmail.com)
